@@ -1,0 +1,5 @@
+.DS_Store
+*.sarif
+*.sarif.json
+audit-report.*
+baseline*.json
